@@ -1,0 +1,13 @@
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 1.1em;
+}
+
+.container {
+  max-width: 100%;
+  padding: 0 8% 0 8%;
+}
+
+.center {
+  text-align: center;
+}
